@@ -1,75 +1,72 @@
 <div align="center">
+
+# 🚀 Welcome to my profile!
   
-# 💫 About Me
-  
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=46E3B7&center=true&vCenter=true&width=435&lines=Samruddhi+Atul+Ranmode;Computer+Engineering+Student;Full-Stack+MERN+Developer;AI+%26+ML+Explorer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=46E3B7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Samruddhi+Atul+Ranmode;Full-Stack+MERN+Developer;AI+%26+ML+Enthusiast;Cloud+Computing+Developer" alt="Typing SVG" />
 
 <p align="center">
-  I am a Full-Stack Engineer passionate about building intelligent, scalable web applications. I specialize in crafting robust <b>MERN</b> architectures, integrating <b>Machine Learning</b> models to solve complex problems, and deploying high-availability solutions using <b>Cloud</b> infrastructure.
+  I am a Full-Stack Engineer passionate about building intelligent, scalable web applications. I specialize in crafting robust <b>MERN</b> architectures, integrating <b>Machine Learning</b> models, and deploying on <b>Cloud</b> infrastructure. Always exploring the intersection of web performance and data intelligence.
 </p>
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samruddhi-ranmode) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sam_ruddhi.96) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranmodesamruddhi@gmail.com)
+## 🔥 Performance & Consistency
 
----
-
-# 💻 Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react) ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-8511FA?style=flat-square&logo=bootstrap) |
-| **Backend** | ![Nodejs](https://img.shields.io/badge/-Nodejs-6DA55F?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/-Express-404d59?style=flat-square&logo=express) ![Firebase](https://img.shields.io/badge/-Firebase-039BE5?style=flat-square&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON%20web%20tokens) |
-| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch) ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-F7931E?style=flat-square&logo=scikit-learn) ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas) |
-| **Cloud/DevOps** | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud) ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker) ![Jenkins](https://img.shields.io/badge/-Jenkins-2C5263?style=flat-square&logo=jenkins) |
-| **Design** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva) ![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe) |
-
----
-
-# 📊 Activity & Stats
+### 🐍 Contribution Journey
+<img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?github=samruddhiar2004&color_snake=%2346E3B7&color_dots=%23161b22%2C%230e4429%2C%23006d32%2C%2326a641%2C%2339d353" width="100%" alt="snake contribution" />
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=samruddhiar2004&theme=radical&show_icons=true&hide_border=true&count_private=true" width="100%" />
+      <b>GitHub Streak Stats</b><br />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=samruddhiar2004&theme=radical&hide_border=true" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhiar2004&theme=radical&layout=compact&hide_border=true" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=samruddhiar2004&theme=radical&hide_border=true" width="100%" />
+      <b>LeetCode Stats</b><br />
+      <a href="https://leetcode.com/samruddhi_ar">
+        <img src="https://leetcode-stats-card.vercel.app/?username=samruddhi_ar&theme=dark" width="100%" alt="LeetCode Stats" />
+      </a>
     </td>
   </tr>
 </table>
 
 ---
 
-# 📈 LeetCode Practice
-<div align="center">
-  <a href="https://leetcode.com/samruddhi_ar">
-    <img src="https://leetcode-stats-card.vercel.app/?username=samruddhi_ar&theme=dark" alt="LeetCode Stats" />
-  </a>
-  <br/>
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=samruddhi_ar&animated=true" alt="LeetCode Badges" />
-</div>
+## 📊 Detailed Analytics
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <b>GitHub Activity</b><br />
+      <img src="https://github-readme-stats.vercel.app/api?username=samruddhiar2004&theme=radical&show_icons=true&hide_border=true&count_private=true" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <b>Language Proficiency</b><br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhiar2004&theme=radical&layout=compact&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+### 🏆 LeetCode Badges
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=samruddhi_ar&animated=true" alt="LeetCode Badges" />
 
 ---
 
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samruddhiar2004&theme=radical&no-frame=true&no-bg=true" />
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### ✍️ Inspiration
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+---
+
+### 🌟 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=samruddhiar2004&theme=radical&no-frame=true&no-bg=true" width="100%" />
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=samruddhiar2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samruddhi-ranmode) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sam_ruddhi.96) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranmodesamruddhi@gmail.com)
 
 ---
 
