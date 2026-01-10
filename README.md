@@ -12,6 +12,12 @@ Samruddhi Atul Ranmode <br><br>Computer Engineering Student | Web Developer | AI
 ![](https://nirzak-streak-stats.vercel.app/?user=samruddhiar2004&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhiar2004&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📈 LeetCode Stats:
+[![LeetCode Stats](https://leetcode-stats-card.vercel.app/?username=samruddhi_ar&theme=dark)](https://leetcode.com/samruddhi_ar)
+
+### 🏆 LeetCode Badges
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=samruddhi_ar&animated=true)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=samruddhiar2004&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
