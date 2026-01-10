@@ -116,27 +116,7 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<a href="https://github.com/samruddhiar2004">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samruddhiar2004&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhiar2004&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=samruddhiar2004&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=samruddhiar2004&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>
