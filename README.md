@@ -16,7 +16,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samruddhi-ranmode)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/samruddhi_ar)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/its.behindthemic)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samruddhiar2004)
 
 </div>
@@ -117,8 +116,13 @@
 
 ---
 
+=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samruddhiar2004&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samruddhiar2004&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="90%"/>
 </div>
 
 ---
@@ -126,8 +130,8 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  
-  <img src="https://raw.githubusercontent.com/samruddhiar2004/samruddhiar2004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+![Snake animation](https://raw.githubusercontent.com/samruddhiar2004/samruddhiar2004/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -140,3 +144,4 @@
 **Thank you for visiting my profile! Let's build something amazing together! 🚀**
 
 </div>
+
