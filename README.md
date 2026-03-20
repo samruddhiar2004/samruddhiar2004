@@ -126,7 +126,9 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/samruddhiar2004/samruddhiar2004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+![Snake animation](https://raw.githubusercontent.com/samruddhiar2004/samruddhiar2004/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
